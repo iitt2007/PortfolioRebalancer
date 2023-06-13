@@ -1,2 +1,2 @@
-# PortfolioRebalancer
+# Portfolio Rebalancer
 Rebalance portfolio 
